@@ -4,4 +4,3 @@ def reverse_each_word(sentence)
    new_sentence = sentence.split.each {|n| n.reverse}
    new_sentence.join
 end
-end
